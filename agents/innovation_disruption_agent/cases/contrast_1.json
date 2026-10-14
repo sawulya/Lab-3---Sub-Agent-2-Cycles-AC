@@ -1,0 +1,14 @@
+{
+  "emerging_technology": "Generative AI (large language models for drafting, synthesis, and workflow orchestration)",
+  "industry_sector": "Legal services",
+  "adoption_posture": "Conservative: confidential information excluded from pilot; mandatory lawyer review",
+  "capabilities_constraints": "Existing legal research systems, review practice, limited internal pilot; no verified time-cost data",
+  "risk_consequence_context": "Confidentiality, professional accuracy and regulatory duties; inaccurate advice carries high consequences",
+  "management_question": "Could this application meaningfully alter the business model, and what evidence should guide a pilot?",
+  "time_horizon": "Next 3-6 months",
+  "intended_application": "Assist lawyers with internal first drafts of routine, non-client-facing administrative memos using approved generic templates, with lawyer verification before use",
+  "organization": "Hypothetical established mid-sized law firm that bills principally for bespoke counsel",
+  "business_need": "Reduce repetitive back-office drafting while preserving client-facing legal judgment",
+  "users_stakeholders": "Lawyers, support staff, compliance lead, clients indirectly",
+  "additional_context": "Case premise: generative AI is confined to low-stakes internal drafts; no automated legal advice or client billing changes; unknown effect on real workload."
+}

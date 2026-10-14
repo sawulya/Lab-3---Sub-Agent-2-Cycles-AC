@@ -1,0 +1,14 @@
+{
+  "emerging_technology": "Generative AI (large language models for drafting, synthesis, and workflow orchestration)",
+  "industry_sector": "Digital media / professional services",
+  "adoption_posture": "Moderate: trial first, keep accountable human review",
+  "capabilities_constraints": "Small team, limited budget; access to text-generation tools; no verified cost or outcome metrics",
+  "risk_consequence_context": "Fabricated facts, reputational harm, copyright and confidentiality risks; reversible pilots",
+  "management_question": "Is demonstrated AI text generation sufficient evidence of breakthrough commercialization or existential disruption?",
+  "time_horizon": "Next 3-6 months",
+  "intended_application": "Turn consenting interviewee questionnaire and approved source material into human-edited AI practitioner profiles; repurpose into newsletter and social formats",
+  "organization": "Hypothetical early-stage AI media publisher (inspired by a capstone concept; business details are scenario assumptions, not verified sponsor performance)",
+  "business_need": "Publish high-quality profiles faster without losing subject voice; potentially create newsletter/affiliate/sponsorship channels",
+  "users_stakeholders": "Profile subjects, readers, founders/editors, potential sponsors",
+  "additional_context": "Ambiguous negative test: early trial produced draft text but required more editing time than human drafting; no evidence of added engagement, sponsorship demand, or operational cost savings."
+}

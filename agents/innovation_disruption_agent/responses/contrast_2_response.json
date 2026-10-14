@@ -1,0 +1,50 @@
+{
+  "agent": {
+    "name": "Innovation and Disruption Agent",
+    "specialty": "innovation classification and business-model creative destruction",
+    "version": "1.1"
+  },
+  "analytical_question": "What is innovative at technology, application, and organization levels, and what may be created or displaced in the business model?",
+  "general_et_finding": "Generative AI is a substantial general-purpose capability advance in producing and transforming text; a defensible breakthrough-enabling technology, not an invention unique to this organization. Real innovation is demonstrated in implemented use, and commercialization requires separate business evidence.",
+  "evidence": [
+    {
+      "claim": "Generative AI can automate or assist diverse tasks, but effects depend on task and user expertise.",
+      "source_or_reference": "OECD, The effects of generative AI on productivity, innovation and entrepreneurship (2025), https://doi.org/10.1787/b21df222-en",
+      "date_or_recency": "2025-06-20",
+      "evidence_type": "secondary research",
+      "notes": "Research review; not a measurement of either hypothetical organization."
+    },
+    {
+      "claim": "Generative AI brings distinctive operational risks requiring appropriate human and organizational safeguards.",
+      "source_or_reference": "NIST, AI RMF Generative AI Profile (2024), https://doi.org/10.6028/NIST.AI.600-1",
+      "date_or_recency": "2024-07-26",
+      "evidence_type": "official risk guidance",
+      "notes": "Risk framework, not evidence of this pilot's failure or success."
+    },
+    {
+      "claim": "SMEs use generative AI in workforce-related workflows; real benefits vary by context.",
+      "source_or_reference": "OECD, Generative AI and the SME Workforce (2025), https://doi.org/10.1787/2d08b99d-en",
+      "date_or_recency": "2025-11-05",
+      "evidence_type": "official survey report",
+      "notes": "Broad survey; does not determine startup revenue impact."
+    }
+  ],
+  "application_finding": "The technology can create drafts, but this trial fails the operational-value test: human finishing exceeds baseline. Classify as technical use / unsuccessful pilot, not verified business innovation or commercialization.",
+  "organization_specific_finding": "No demonstrated savings or demand, so business-model change cannot be established. Business-Model Disruption Judgment: Low (observed pilot); potential future exposure remains uncertain, not proven.",
+  "value_opportunity_implication": "CREATE/ENABLE: possible future capacity only if prompts, source quality and editing are improved; no observed created economic value in this test.",
+  "risk_governance_implication": "DISPLACE: no routine production work yet shown to be economically displaced. Early-adoption risk dominates under the negative measured premise; long-run competitor threat unmeasured.",
+  "recommendation_management_implication": "Pause scaling; diagnose correction categories, improve source approvals, and rerun time-and-quality comparisons before reconsidering.",
+  "contrary_evidence_or_limitations": [
+    "Alternative interpretation: a poor pilot implementation may conceal a useful application; failure to benefit is not evidence generative AI generally lacks breakthrough capabilities.",
+    "No observed sponsor/customer value in scenario."
+  ],
+  "confidence_and_uncertainty": "High confidence that this described pilot does not demonstrate realized innovation; low confidence about eventual market performance.",
+  "change_monitoring_triggers": [
+    "Measured editing burden below manual baseline",
+    "Improved source quality and approvals",
+    "Validated real audience response"
+  ],
+  "abstention_or_more_information_needed": [
+    "Do not claim broad market failure or successful commercialization from one pilot."
+  ]
+}
